@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581767677 source:d:\scm\algorithm part1\code\c++\quickunionfind\pathcompressionweightedunion\main.cpp
+	<iostream>
+	<assert.h>
+
