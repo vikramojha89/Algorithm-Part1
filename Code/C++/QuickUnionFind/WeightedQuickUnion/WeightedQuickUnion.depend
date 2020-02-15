@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581765269 source:d:\scm\algorithm part1\code\c++\quickunionfind\weightedquickunion\main.cpp
+	<iostream>
+	<assert.h>
+
